@@ -5,7 +5,7 @@
 
 - 🌱 Learning **Laravel and NextJS**
 
-- 📫 How to reach me **khaue.po@hotmail.com**
+- 📫 **khaue.po@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
