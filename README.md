@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khauê Gil Poerner</h1>
 <h3 align="center">Programmer</h3>
 
-<p align="left"> <a href="https://twitter.com/k_poerner" target="blank"><img src="https://img.shields.io/twitter/follow/k_poerner?logo=twitter&style=for-the-badge" alt="k_poerner" /></a> </p>
-
 - 🔭 I’m currently working on [Girafa Ecommerce](https://girafacomunicacao.com.br/e-commerce/)
 
-- 🌱 I’m currently learning **Laravel and NextJS**
+- 🌱 Learning **Laravel and NextJS**
 
 - 📫 How to reach me **khaue.po@hotmail.com**
 
